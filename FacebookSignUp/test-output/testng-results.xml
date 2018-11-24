@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[11/17/2018  02:02:04 PM]]>
+    </line>
+    <line>
+      <![CDATA[Windows 10]]>
+    </line>
+    <line>
+      <![CDATA[CNJUKANG]]>
+    </line>
+    <line>
+      <![CDATA[1.8]]>
+    </line>
+    <line>
+      <![CDATA[11/17/2018  02:02:36   Lora]]>
+    </line>
+    <line>
+      <![CDATA[11/17/2018  02:02:39   Bush]]>
+    </line>
+    <line>
+      <![CDATA[11/17/2018  02:02:42   lorabush@yahoo.com]]>
+    </line>
+    <line>
+      <![CDATA[11/17/2018  02:02:44   lorabush@yahoo.com]]>
+    </line>
+    <line>
+      <![CDATA[11/17/2018  02:02:47   12345#$$$$]]>
+    </line>
+    <line>
+      <![CDATA[11/17/2018  02:02:49   Dec]]>
+    </line>
+    <line>
+      <![CDATA[11/17/2018  02:02:51   20]]>
+    </line>
+    <line>
+      <![CDATA[11/17/2018  02:02:54   1988]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55680" started-at="2018-11-17T19:02:04Z" finished-at="2018-11-17T19:03:00Z">
+    <groups>
+    </groups>
+    <test name="Facebook Sign Up Test" duration-ms="55680" started-at="2018-11-17T19:02:04Z" finished-at="2018-11-17T19:03:00Z">
+      <class name="facebooksignup.FacebookSignUp">
+        <test-method status="PASS" signature="setup()[pri:0, instance:facebooksignup.FacebookSignUp@724af044]" name="setup" is-config="true" duration-ms="14960" started-at="2018-11-17T19:02:04Z" finished-at="2018-11-17T19:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="machineInfo()[pri:0, instance:facebooksignup.FacebookSignUp@724af044]" name="machineInfo" duration-ms="2" started-at="2018-11-17T19:02:19Z" finished-at="2018-11-17T19:02:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[11/17/2018  02:02:04 PM]]>
+            </line>
+            <line>
+              <![CDATA[Windows 10]]>
+            </line>
+            <line>
+              <![CDATA[CNJUKANG]]>
+            </line>
+            <line>
+              <![CDATA[1.8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- machineInfo -->
+        <test-method status="PASS" signature="signup()[pri:1, instance:facebooksignup.FacebookSignUp@724af044]" name="signup" duration-ms="39898" started-at="2018-11-17T19:02:19Z" finished-at="2018-11-17T19:02:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[11/17/2018  02:02:36   Lora]]>
+            </line>
+            <line>
+              <![CDATA[11/17/2018  02:02:39   Bush]]>
+            </line>
+            <line>
+              <![CDATA[11/17/2018  02:02:42   lorabush@yahoo.com]]>
+            </line>
+            <line>
+              <![CDATA[11/17/2018  02:02:44   lorabush@yahoo.com]]>
+            </line>
+            <line>
+              <![CDATA[11/17/2018  02:02:47   12345#$$$$]]>
+            </line>
+            <line>
+              <![CDATA[11/17/2018  02:02:49   Dec]]>
+            </line>
+            <line>
+              <![CDATA[11/17/2018  02:02:51   20]]>
+            </line>
+            <line>
+              <![CDATA[11/17/2018  02:02:54   1988]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:facebooksignup.FacebookSignUp@724af044]" name="closeBrowser" is-config="true" duration-ms="766" started-at="2018-11-17T19:02:59Z" finished-at="2018-11-17T19:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- facebooksignup.FacebookSignUp -->
+    </test> <!-- Facebook Sign Up Test -->
+  </suite> <!-- Suite -->
+</testng-results>
