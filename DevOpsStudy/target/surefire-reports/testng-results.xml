@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[01/05/2019  02:47:23 PM]]>
+      <![CDATA[01/29/2019  08:14:13 PM]]>
     </line>
     <line>
       <![CDATA[Windows 10]]>
@@ -14,39 +14,39 @@
       <![CDATA[1.8]]>
     </line>
     <line>
-      <![CDATA[01/05/2019  02:48:56   Lora]]>
+      <![CDATA[01/29/2019  08:15:17   Lora]]>
     </line>
     <line>
-      <![CDATA[01/05/2019  02:48:58   Bush]]>
+      <![CDATA[01/29/2019  08:15:20   Bush]]>
     </line>
     <line>
-      <![CDATA[01/05/2019  02:49:02   lorabush@yahoo.com]]>
+      <![CDATA[01/29/2019  08:15:22   lorabush@yahoo.com]]>
     </line>
     <line>
-      <![CDATA[01/05/2019  02:49:04   lorabush@yahoo.com]]>
+      <![CDATA[01/29/2019  08:15:26   lorabush@yahoo.com]]>
     </line>
     <line>
-      <![CDATA[01/05/2019  02:49:07   12345#$$$$]]>
+      <![CDATA[01/29/2019  08:15:28   12345#$$$$]]>
     </line>
     <line>
-      <![CDATA[01/05/2019  02:49:09   Dec]]>
+      <![CDATA[01/29/2019  08:15:31   Dec]]>
     </line>
     <line>
-      <![CDATA[01/05/2019  02:49:11   20]]>
+      <![CDATA[01/29/2019  08:15:33   20]]>
     </line>
     <line>
-      <![CDATA[01/05/2019  02:49:14   1988]]>
+      <![CDATA[01/29/2019  08:15:35   1988]]>
     </line>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="122425" started-at="2019-01-05T19:47:23Z" finished-at="2019-01-05T19:49:25Z">
+  <suite name="Surefire suite" duration-ms="88075" started-at="2019-01-30T01:14:13Z" finished-at="2019-01-30T01:15:41Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="122425" started-at="2019-01-05T19:47:23Z" finished-at="2019-01-05T19:49:25Z">
+    <test name="Surefire test" duration-ms="88075" started-at="2019-01-30T01:14:13Z" finished-at="2019-01-30T01:15:41Z">
       <class name="com.devops1.DevOpsStudy.AppTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.devops1.DevOpsStudy.AppTest@4157f54e]" name="setup" is-config="true" duration-ms="63317" started-at="2019-01-05T19:47:23Z" finished-at="2019-01-05T19:48:26Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.devops1.DevOpsStudy.AppTest@4157f54e]" name="setup" is-config="true" duration-ms="44335" started-at="2019-01-30T01:14:13Z" finished-at="2019-01-30T01:14:58Z">
           <reporter-output>
             <line>
-              <![CDATA[01/05/2019  02:47:23 PM]]>
+              <![CDATA[01/29/2019  08:14:13 PM]]>
             </line>
             <line>
               <![CDATA[Windows 10]]>
@@ -59,35 +59,35 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="signUp()[pri:0, instance:com.devops1.DevOpsStudy.AppTest@4157f54e]" name="signUp" duration-ms="53581" started-at="2019-01-05T19:48:26Z" finished-at="2019-01-05T19:49:20Z">
+        <test-method status="PASS" signature="signUp()[pri:0, instance:com.devops1.DevOpsStudy.AppTest@4157f54e]" name="signUp" duration-ms="42786" started-at="2019-01-30T01:14:58Z" finished-at="2019-01-30T01:15:41Z">
           <reporter-output>
             <line>
-              <![CDATA[01/05/2019  02:48:56   Lora]]>
+              <![CDATA[01/29/2019  08:15:17   Lora]]>
             </line>
             <line>
-              <![CDATA[01/05/2019  02:48:58   Bush]]>
+              <![CDATA[01/29/2019  08:15:20   Bush]]>
             </line>
             <line>
-              <![CDATA[01/05/2019  02:49:02   lorabush@yahoo.com]]>
+              <![CDATA[01/29/2019  08:15:22   lorabush@yahoo.com]]>
             </line>
             <line>
-              <![CDATA[01/05/2019  02:49:04   lorabush@yahoo.com]]>
+              <![CDATA[01/29/2019  08:15:26   lorabush@yahoo.com]]>
             </line>
             <line>
-              <![CDATA[01/05/2019  02:49:07   12345#$$$$]]>
+              <![CDATA[01/29/2019  08:15:28   12345#$$$$]]>
             </line>
             <line>
-              <![CDATA[01/05/2019  02:49:09   Dec]]>
+              <![CDATA[01/29/2019  08:15:31   Dec]]>
             </line>
             <line>
-              <![CDATA[01/05/2019  02:49:11   20]]>
+              <![CDATA[01/29/2019  08:15:33   20]]>
             </line>
             <line>
-              <![CDATA[01/05/2019  02:49:14   1988]]>
+              <![CDATA[01/29/2019  08:15:35   1988]]>
             </line>
           </reporter-output>
         </test-method> <!-- signUp -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.devops1.DevOpsStudy.AppTest@4157f54e]" name="tearDown" is-config="true" duration-ms="5431" started-at="2019-01-05T19:49:20Z" finished-at="2019-01-05T19:49:25Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.devops1.DevOpsStudy.AppTest@4157f54e]" name="tearDown" is-config="true" duration-ms="615" started-at="2019-01-30T01:15:41Z" finished-at="2019-01-30T01:15:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
